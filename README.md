@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full-stack developer passionate about building scalable systems
-- 🌱 Currently learning **AI integrations & cloud security**
+- 🌱 Currently learning **AI integrations**
 - 🎯 Goal: To create solutions that make a real-world impact
 - ⚡ Fun fact: I love solving complex problems with clean, efficient code
 
